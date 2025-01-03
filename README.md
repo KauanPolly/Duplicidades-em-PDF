@@ -52,5 +52,5 @@ Estilo customizado com tema escuro
 📧 Contato
 Desenvolvido por: [Kauan Pollicarpo]
 Email: [Kauanpolicarpo0@gmail.com]
-GitHub: https://github.com/seu-usuario
+GitHub: https://github.com/KauanPolly
 
