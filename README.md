@@ -36,14 +36,16 @@ Nome do cliente: DADOS DO CLIENTE\s+([A-Z\s]+)
 Datas de vencimento: VENCIMENTO\s*(\d{2}/\d{2}/\d{4})
 Você pode ajustar os padrões no código para atender a diferentes formatos de PDF.
 
-🎨** Interface Gráfica**
+## 🎨 **Interface Gráfica**
 Linguagem: Tkinter
 Recursos:
 Campo de texto com rolagem para exibição dos resultados.
-Estilo customizado com tema escuro.
-🖥 Capturas de Tela
-Tela Principal:
+Estilo customizado com tema escuro
 
+## 🖥 Capturas de Tela
+
+### Tela Principal:
+![Tela Principal](assets/TelaInicial.PNG)
 
 
 
